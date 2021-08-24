@@ -8,8 +8,7 @@ Projeto utilizando para aprendizagem de PWA Angular.
 #Solução Implementada:
 <img src="c1.png">
 
-#Desenvolvimento Atual - 24.08.2021
-
+#Desenvolvimento Atual - 24.08.2021:
 <img src="r1.png">
 
 #2º Problema:
